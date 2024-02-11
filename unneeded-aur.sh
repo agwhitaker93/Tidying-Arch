@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-yay -Qqmt | sort
+pacman -Qqmt | sort
